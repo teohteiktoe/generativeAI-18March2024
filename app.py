@@ -12,8 +12,6 @@ model = {
     "model": "models/chat-bison-001",
 }
 
-os.environ["REPLICATE_API_TOKEN"] = "787f515cb0624813736c11e7fefec66473394f02"
-
 change_name_flag = 1
 name = ""
 
